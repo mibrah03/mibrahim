@@ -23,13 +23,13 @@ Active Federal Public Trust Clearance | Falls Church, VA
 - Google Data Analytics Professional Certificate *(2024)*
 
 ## 📂 Portfolio & Projects
-- [Power BI Dashboards](https://github.com/honestjey/power-bi-dashboards) — KPI dashboards, DAX calculations, and data modeling
-- [SQL Projects](https://github.com/honestjey/sql-projects) — SQL queries for data analysis *(coming soon)*
-- [Python Projects](https://github.com/honestjey/python-projects) — Python data analysis with Pandas and Matplotlib *(coming soon)*
+- [Power BI Dashboards](https://github.com/mibrah03/power-bi-dashboards) — KPI dashboards, DAX calculations, and data modeling
+- [SQL Projects](https://github.com/mibrah03/sql-projects) — SQL queries for data analysis *(coming soon)*
+- [Python Projects](https://github.com/mibrah03/python-projects) — Python data analysis with Pandas and Matplotlib *(coming soon)*
 
 ## 🎯 Seeking
 Junior Power BI Developer | Entry-Level Business Intelligence Analyst
 
 ## 📫 Contact
 - Email: mai5054@live.com
-- LinkedIn: [linkedin.com/in/mohaibra](https://www.linkedin.com/in/mohaibra)
+- LinkedIn: [linkedin.com/in/mibrah03](https://www.linkedin.com/in/mibrah03)
